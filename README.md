@@ -148,3 +148,4 @@ contained in the old version of [phppgadmin](https://github.com/phppgadmin/phppg
 -   [Translators](docs/TRANSLATORS.md)
 
 Kudos to all people that helped build the original project, upon which this one was built.
+ m
