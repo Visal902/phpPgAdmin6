@@ -146,5 +146,4 @@ contained in the old version of [phppgadmin](https://github.com/phppgadmin/phppg
 -   [FAQ](docs/FAQ.md) (_outdated_)
 -   [History](docs/HISTORY.md) (_outdated_)
 -   [Translators](docs/TRANSLATORS.md)
-
-Kudos to all people that helped build the original project, upon which this one was built.
+            https://t.me/ViSal1234M
