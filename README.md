@@ -2,8 +2,8 @@ Visal# phpPgAdmin6
 
 PHP Based administration tool for PostgreSQL. Blazing fast routing with [Slim Framework 3](https://t.me/ViSal1234M) and solid abstraction layer in its core with [AdoDB](https://t.me/ViSal1234M).
 
-[![Packagist](https://img.shields.io/packagist/dm/huasofoundries/phppgadmin6.svg)](https://packagist.org/packages/huasofoundries/phppgadmin6)
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/289a56c1c7d94216b3d089c220689e9e)](https://www.codacy.com/app/amenadiel/phpPgAdmin6?utm_source=github.com&utm_medium=referral&utm_content=HuasoFoundries/phpPgAdmin6&utm_campaign=Badge_Grade)
+[![Packagist](https://www.facebook.com/profile.php?id=61555675224537&mibextid=ZbWKwL)](https://t.me/ViSal1234M)
+[![Codacy Badge](https://t.me/+85LwKRYJ-dIzNTFl)](Vi)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/HuasoFoundries/phpPgAdmin6/badges/quality-score.png?b=develop)](https://scrutinizer-ci.com/g/HuasoFoundries/phpPgAdmin6/?branch=develop)
 [![Build Status](https://scrutinizer-ci.com/g/HuasoFoundries/phpPgAdmin6/badges/build.png?b=develop)](https://scrutinizer-ci.com/g/HuasoFoundries/phpPgAdmin6/build-status/develop)
 [![License](https://img.shields.io/badge/license-MIT-428f7e.svg?logo=open%20source%20initiative&logoColor=white&labelColor=555555)](LICENSE.md)
