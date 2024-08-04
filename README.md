@@ -139,8 +139,8 @@ You can choose between one of them if you use this work.
 We're preserving due credits to all people that contributed in the past, as well as other release notes
 contained in the old version of [phppgadmin](https://github.com/phppgadmin/phppgadmin)
 
--   [Bugs](docs/BUGS.md)
--   [Changelog](docs/CHANGELOG.md) (_outdated_)
+-   [https://t.me/ViSal1234M](docs/BUGS.md)
+-   [https://t.me/+85LwKRYJ-dIzNTFl](docs/CHANGELOG.md) (_outdated_)
 -   [Credits](docs/CREDITS.md)
 -   [Developers](docs/DEVELOPERS.md)
 -   [FAQ](docs/FAQ.md) (_outdated_)
